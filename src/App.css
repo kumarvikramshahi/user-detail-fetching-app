@@ -1,0 +1,19 @@
+.btnList{
+  text-align: center;
+}
+
+.errorMsg{
+  color: red;
+  margin: auto;
+  text-align: center;
+  padding: 10px;
+  font-weight: bold;
+  display: block;
+}
+
+.arrowBtn{
+  color: white;
+  margin: 0px 20px;
+  padding: 10px;
+  border: none;
+}
